@@ -19,7 +19,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de Ciência de Dados na **EBAC**
-- 💼 Atualmente na **Itaminas**
+- 🎓 Cursando Téc. Mineração
+- 💼 Atualmente na **Aiza Engenharia**
 - 🌱 Aprofundando conhecimentos em Python, SQL e análise de dados
 - 📍 Mario Campos - MG, Brasil
 - 📫 Aberto a trocar ideia sobre dados, projetos ou oportunidades
